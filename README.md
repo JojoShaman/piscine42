@@ -1,4 +1,4 @@
-##PISCINE 42
+## PISCINE 42
 
 The 42 Piscine is an intensive one-month introduction to programming in C. The curriculum is hands-on and moves fast, with new concepts introduced every day through a series of exercises and projects. No external libraries allowed, no shortcuts.
 The topics covered go from the very basics of the language up to lower-level concepts: strings, arrays, arithmetic, pointers, memory allocation, structs, headers, Makefiles , etc... Each module builds on the previous one, and the exercises are designed to make you understand what is actually happening at a system level rather than just getting something to compile.
